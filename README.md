@@ -172,7 +172,7 @@ cursor:pointer;
 
 <body>
 
-<header>🛒 متجر المحترف V2</header>
+<header>🛒تحطيم الاسعار  V2</header> Apex store
 
 <div class="topbar">
 <input id="search" placeholder="ابحث عن منتج...">
